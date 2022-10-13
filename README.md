@@ -64,3 +64,6 @@ df.head(10)
 ![image](https://user-images.githubusercontent.com/113016903/195494484-20663ea4-6529-480e-9ea7-64d6e405fd7c.png)
 
 
+
+RESULT:
+Thus the feature generation is done successfully
