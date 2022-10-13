@@ -46,3 +46,4 @@ df.head(10)
 
 ~~~
 # OUPUT
+![image](https://user-images.githubusercontent.com/113016903/195489654-df2148d0-dd40-4fb2-aa51-8a4e99cb3284.png)
